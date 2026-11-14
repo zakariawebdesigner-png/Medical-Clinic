@@ -1665,7 +1665,7 @@ align-items: flex-start;
 
 
 
-.Prices-AND-TechnologiesDiv .FirstDiv{
+.Prices-AND-TechnologiesDiv .FirstDiv .TextsDiv{
 
    flex-direction: column;
    align-items: flex-start;
